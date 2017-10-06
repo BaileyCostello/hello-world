@@ -1,2 +1,2 @@
 # hello-world
-ideas, resources, and misc.
+This repository is for ideas, resources, and other miscellaneous files.
